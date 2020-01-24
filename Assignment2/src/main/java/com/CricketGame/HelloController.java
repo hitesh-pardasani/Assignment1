@@ -1,7 +1,7 @@
-package com.example.CricketGame;
+package com.CricketGame;
 
-import com.example.CricketGame.TeamPackage.Player;
-import com.example.CricketGame.TeamPackage.Team;
+import com.CricketGame.TeamPackage.Player;
+import com.CricketGame.TeamPackage.Team;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;

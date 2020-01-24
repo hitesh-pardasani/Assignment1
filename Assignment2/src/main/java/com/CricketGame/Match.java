@@ -1,8 +1,8 @@
-package com.example.CricketGame;
+package com.CricketGame;
 
-import com.example.CricketGame.Records.MatchRecord;
-import com.example.CricketGame.TeamPackage.Player;
-import com.example.CricketGame.TeamPackage.Team;
+import com.CricketGame.Records.MatchRecord;
+import com.CricketGame.TeamPackage.Player;
+import com.CricketGame.TeamPackage.Team;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

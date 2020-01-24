@@ -1,4 +1,4 @@
-package com.example.CricketGame.Records;
+package com.CricketGame.Records;
 
 public class PlayerRecord extends Record {
     public Boolean notout = false;

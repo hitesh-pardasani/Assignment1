@@ -1,4 +1,4 @@
-package com.example.CricketGame.Records;
+package com.CricketGame.Records;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

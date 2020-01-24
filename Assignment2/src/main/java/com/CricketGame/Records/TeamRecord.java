@@ -1,7 +1,7 @@
-package com.example.CricketGame.Records;
+package com.CricketGame.Records;
 
-import com.example.CricketGame.Match;
-import com.example.CricketGame.Match.Result;
+import com.CricketGame.Match;
+import com.CricketGame.Match.Result;
 
 public class TeamRecord extends Record {
     public String name;

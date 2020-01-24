@@ -1,7 +1,7 @@
-package com.example.CricketGame.TeamPackage;
+package com.CricketGame.TeamPackage;
 
-import com.example.CricketGame.Records.PlayerRecord;
-import com.example.CricketGame.Records.TeamRecord;
+import com.CricketGame.Records.PlayerRecord;
+import com.CricketGame.Records.TeamRecord;
 
 import java.util.ArrayList;
 

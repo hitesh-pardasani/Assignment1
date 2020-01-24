@@ -1,4 +1,4 @@
-package com.example.CricketGame;
+package com.CricketGame;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
